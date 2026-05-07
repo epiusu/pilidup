@@ -1,4 +1,4 @@
-# lodi
-Lido - Linux Açık Veri Haritası
+# Pilidi
+Pilidi - Linux Dağıtımlar Açık Veri Haritası
 
-<img src="https://raw.githubusercontent.com/epiusu/lodi/refs/heads/main/img.png" alt="img" class="responsive">
+<img src="https://raw.githubusercontent.com/epiusu/pilidi/refs/heads/main/img.png" alt="img" class="responsive">
