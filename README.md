@@ -24,4 +24,4 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için <a href="https://github.com/epiusu/pilidi/blob/main/LICENSE.md">LICENSE</a> dosyasına bakınız.
